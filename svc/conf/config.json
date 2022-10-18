@@ -1,0 +1,9 @@
+{
+    "pcm":{},
+    "server":{"rest":{"addr":"localhost", "port":12345}},
+    "profiler":{
+        "store":{
+            "default":{}
+        }
+    }
+}
